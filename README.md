@@ -1,2 +1,2 @@
 # Python-portfolio
-author siddhi sakharkar
+Author siddhi sakharkar
